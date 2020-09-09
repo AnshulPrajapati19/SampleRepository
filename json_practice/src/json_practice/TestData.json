@@ -1,0 +1,22 @@
+[
+   {
+   "Users":
+   {
+    "Username"= "anshul@gmail.com",
+    "Password" = "abc",
+    }
+   },
+   {
+   "Users":
+   {
+   "Username"= "meghna@gmail.com",
+   "Password" = "def",
+   }
+  }
+  "Users":
+   {
+   "Username"= "sheekha@gmail.com",
+   "Password" = "def",
+   }
+  }
+]
